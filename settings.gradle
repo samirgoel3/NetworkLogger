@@ -1,2 +1,3 @@
+include ':nlogger'
 include ':app'
-rootProject.name = "NetwokLogger"
+rootProject.name = "NetworkLogger"

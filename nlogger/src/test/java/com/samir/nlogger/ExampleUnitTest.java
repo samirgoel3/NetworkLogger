@@ -1,4 +1,4 @@
-package com.samir.netwoklogger;
+package com.samir.nlogger;
 
 import org.junit.Test;
 
